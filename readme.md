@@ -18,3 +18,9 @@ A tag that adds your video including the Bootstrap Responsive Embed Tags.
 ```
 {{ bootstrap_video_embed src='{video:url}' height='{video:height}' width='{video:width}' autoplay='true' loop='true' api='true' showinfo='false' controls='false' }}
 ```
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/eNH4J7YAub4Y19PG8yjyuzLu/jrc9designstudio/statamic-bootstrap-video-embed'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/eNH4J7YAub4Y19PG8yjyuzLu/jrc9designstudio/statamic-bootstrap-video-embed.svg' />
+</a>
+
+Made with ❤️ by [JRC9 Design Studio](https://jrc9.ca)
